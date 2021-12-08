@@ -1,2 +1,8 @@
 # bitcoin-miner-with-python
-only for education
+A bitcoin miner for educational purpose…
+## For running in your local system 
+
+```bash
+python main code/main.py
+
+```
