@@ -3,6 +3,6 @@ A bitcoin miner for educational purpose…
 ## For running in your local system 
 
 ```bash
-python main code/main.py
+python3 main.py
 
 ```
